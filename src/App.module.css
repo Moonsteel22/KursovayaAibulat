@@ -1,0 +1,13 @@
+.AppCss {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  display:grid;
+  grid-template-areas: 
+  "h-top h-top"
+  "n-top c-top";
+  grid-template-columns: 200px 1320px;
+  grid-template-rows: 120px 800px;
+
+}
+

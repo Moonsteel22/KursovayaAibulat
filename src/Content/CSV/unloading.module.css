@@ -1,0 +1,18 @@
+.MainBlock{
+    grid-area:c-top;
+    background-color: rgb(255, 255, 255);
+    height: 1000px;
+}
+
+.InputBlock{
+    margin-left:10px;
+}
+
+.formInput{
+    display:flex;
+    flex-direction: column;
+}
+
+.hehe{
+    width: 100px;
+}

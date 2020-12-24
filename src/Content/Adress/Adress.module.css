@@ -1,0 +1,269 @@
+.MainBlock{
+    grid-area:c-top;
+    background-color: white;
+    height: 1500px;
+}
+.acceptButton:active{
+    color: rgb(108, 108, 108);
+    border-color:rgb(169, 169, 169)
+    
+}
+
+.IAdressesBlock{
+    width: 100%;
+    display:flex;
+    
+}
+
+.AdressText{
+    margin-left: 1.%;
+}
+
+.DescriptionBlock{
+    
+    margin-top:5%;
+    margin-left:8%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    font-family:calibri;
+    font-weight: 600;
+    
+}
+
+.OAdressesBlock{
+    display:flex;
+    width: 100%;
+}
+.OEmptyBlock{
+    width: 20%;
+    
+}
+.OExistAdressesBlock{
+    width: 100%;
+    display:flex;
+}
+.HashBlock{
+    display: flex;
+    width: 100%;
+    margin-bottom:1%;
+}
+
+.IEmptyBlock{
+    width: 20%;
+}
+.IExistAdressesBlock{
+    display:flex;
+    width: 100%;
+}
+.HashWithName{
+    width: 50%;
+    display:flex;
+    margin-bottom:1.%;
+}
+.TransactionTime{
+    width: 50%;
+    display:flex;
+}
+.TimeEmptyBlock{
+    width: 75%;
+}
+.Time{
+    width: 25%;
+}
+.OneMoreCSS{
+    width: 100%;
+    display:flex;
+    
+}
+.Hash{
+    width: 100%;
+}
+.HashName{
+    width: 20%;
+    color:rgb(126, 126, 126);
+}
+.FlexInput{
+    width: 50%;
+    
+}
+.FlexOutput{
+    width: 50%;
+}
+.OutputAdress a{
+    text-decoration: none;
+    font-family: calibri;
+    font-size: 17px;
+}
+.InputAdress a{
+    text-decoration: none;
+    font-family: calibri;
+    font-size: 17px;
+}
+.BTCOfAdress{
+    font-family:calibri;
+    font-size:17px;
+}
+.OutputAdress{
+    width: 70%;
+    display:flex;
+    
+}
+.IOAdressesBlock{
+    display: flex;
+    width: 100%;
+    margin-bottom:2%;
+}
+.NextTxsBlock{
+    display:flex;
+    flex-direction: column;
+
+    width: 100%;
+}
+
+.IOMainDiv{
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+    height: 200px;
+    border-bottom:solid;
+    border-width: 1px;
+    overflow:auto;
+}
+.AdressField{
+display:flex;
+border-bottom:solid;
+border-width: 1px;
+margin-top:2%;
+}
+.TransactionsBlock{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 800px;
+    overflow: scroll;
+    margin-left:8%;
+}
+.ExistAdressesBlock{
+    display:flex;
+    width: 100%;
+}
+.BTCOfAdress{
+width: 30%;
+display:flex;
+    flex-direction: column;
+}
+.InputAdress{
+    width: 70%;
+    display:flex;
+}
+.AdressTransactionField{
+    display:flex;
+    border-bottom:solid;
+    border-color:rgb(196, 203, 209);
+    border-width: 1px;
+    margin-top:2%;
+}
+.AdressBTCAcceptField{
+    display:flex;
+    border-bottom:solid;
+    border-color:rgb(196, 203, 209);
+    border-width: 1px;
+    margin-top:2%;
+}
+.AdressBTCSendField
+{
+    display:flex;
+    margin-top:2%;
+    border-bottom:solid;
+    border-color:rgb(196, 203, 209);
+    border-width: 1px;
+   
+}
+.AdressBalanceField{
+    display:flex;
+    margin-top:2%;
+    border-bottom:solid;
+    border-color:rgb(196, 203, 209);
+    border-width: 1px;
+}
+.BalanceValue
+{
+
+}
+
+
+
+
+
+.BalanceText{
+    width: 30%;
+    
+    margin-left:2%;
+    color:rgb(130, 130, 130);
+    
+}
+.AcceptBTCValue{
+
+}
+.AcceptBTCText{
+    width: 30%;
+margin-left:2%;
+    
+    color:rgb(130, 130, 130);
+}
+.SendBTCValue{
+
+}
+.SendBTCText{
+    width: 30%;
+    
+    margin-left:2%;
+    color:rgb(130, 130, 130);
+}
+.AdressTextValue{
+
+}
+.AdressText{
+    width: 30%;
+    margin-left:2%;
+    
+    color:rgb(130, 130, 130);
+}
+.TransactionValue{
+
+}
+.TransactionText{
+    width: 30%;
+    
+    margin-left:2%;
+    color:rgb(130, 130, 130);
+}
+
+
+.InputForm{
+    margin-left:3%;
+    width: 60%;
+    height: 20%;
+    border-radius: 7px;
+    border-color: rgb(157, 157, 157);
+    background-color: #f2f8fd;
+    border-style: solid;
+    outline: none;
+    
+}
+.acceptButton{
+    margin-left:2%;
+    border-radius: 5px;
+}
+
+.EnterAdressText{
+    margin-top:4%;
+}
+
+.InputBlock{
+    width: 40%;
+    
+    margin-top:2%;
+    margin-left:8%;
+}

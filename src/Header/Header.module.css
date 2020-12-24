@@ -1,0 +1,68 @@
+.headerTop{
+    grid-area:h-top;
+    display:flex;
+    background: rgb(235,236,250)
+}
+
+.circle{
+    margin-top:1.6%;
+    margin-left:20px;
+    border-radius: 100%;
+    width: 80x;
+    height: 80px;
+}
+
+.headerSearch{
+    margin-left: 6.8%;
+    width: 25%;
+    height: 25%;
+    margin-top:3%;
+    border-radius: 7px;
+    border-color: rgb(213, 213, 213);
+    background-color: #e2e2f3;
+    border-style: solid;
+    outline: none;
+
+}
+
+.headerSearch:focus{
+    color: rgb(108, 108, 108);
+    border-color:rgb(169, 169, 169)
+}
+
+.button{
+    margin-left: 92%;
+    margin-top:0.7%;
+}
+.RealButton{
+    height: 25px;
+    width: 25px;
+    border-radius:50px;
+    border:none;
+    background-color: rgb(201, 201, 201);
+}
+
+.RealButton:hover{
+    background-color: rgb(184, 184, 184);
+}
+.RealButton :hover{
+    background-color: rgb(184, 184, 184);
+}
+input, textarea {outline:none;}
+.RealButton:active, .RealButton:active {outline:none;background-color: rgb(201, 201, 201);}
+.RealButton:focus {outline:none; background-color: rgb(184, 184, 184);}
+
+.headerAccount{
+    background-color: #e2e2f3;
+    width: 4%;
+    height: 50%;
+    border-color: rgb(164, 164, 164);
+    margin-left: 53%;
+    margin-top:2%;
+}
+
+.CryptoChoose{
+    margin-top:55px;
+    height: 20px;
+}
+

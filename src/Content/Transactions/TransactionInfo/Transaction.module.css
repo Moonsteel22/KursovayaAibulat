@@ -1,0 +1,236 @@
+.Main{
+    display: flex;
+    grid-template: c-top;
+    background-color: white;
+    padding:1.5%;
+    padding-top:0.5%;
+    height: 180%;
+}
+.a{
+    overflow: hidden;
+}
+
+.InputForm{
+    margin-left:10%;
+    width: 80%;
+    height: 20%;
+    border-radius: 7px;
+    border-color: rgb(157, 157, 157);
+    background-color: #f2f8fd;
+    border-style: solid;
+    outline: none;
+    
+}
+
+.justanotherclass{
+    display:flex;
+    flex-direction: row;
+}
+
+.Information{
+    width: 100%;
+}
+.InformationBlock{
+    width: 30%;
+    display:flex;
+    flex-direction: column;
+}
+.InformationPanelBlock{
+    margin-left:10%;
+    width: 200%;
+    display:flex;
+    flex-direction: column;
+}
+.AdressBlockName{
+    margin-left:10px;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+}
+
+.InputHashMapHash{
+    width: 60%;
+    
+    
+}
+.OutputHash
+
+.MapOverflow{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 95%;
+}
+.InputHashMapHashOverflow{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 95%;
+}
+.OutputHashMapOverflow{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 95%;
+}
+
+.OutputHashMapHash{
+    width: 60%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.InputHashMap{
+    width: 100%;
+    display:flex;
+}
+.InputHashMapBTC{
+
+}
+.InputHashBlock{
+    width: 50%;
+}
+
+.AdressInfoPanel{
+    display:flex;
+    width: 100%;
+}
+
+.AdressInfoPanelInput{
+    width: 30%;
+}
+
+.AdressInfoPanelOutput{
+    width: 30%;
+}
+.AdressInfoPanelInputBTC{
+    width: 20%;
+}
+.AdressInfoPanelOutputBTC{
+    width: 20%;
+}
+.OutputBTCMap{
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.InputBTCMap{
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.OutputHashMap{
+    width: 100%;
+    display:flex;
+}
+
+
+.AdressInputs{
+    width: 100%;
+}
+.AdressOutputs{
+    width: 100%;
+}
+.AdressBlock{
+    width: 60.8%;
+}
+.InputsBlock{
+   width:100%;
+}
+
+.AdressBlockName{
+    display:flex;
+    width: 100%;
+    margin-left:4.9%;
+}
+
+.hash{
+    width: 35%;
+    font-family: Calibri;
+    font-size:20px
+}
+.Status{
+    width: 35%;
+    font-size:20px;
+    font-family: Calibri;
+}
+.TimeGet{
+    width: 35%;
+    font-size:20px;
+    font-family: Calibri;
+}
+
+.Size{
+    width: 35%;
+    font-family: Calibri;
+    font-size:20px;
+}
+.Inputs{
+    width: 35%;
+    font-family: Calibri;
+    font-size:20px;
+}
+
+.Outputs{
+    width: 35%;
+    font-family: Calibri;
+    font-size:20px;
+}
+.OutputHashBlock{
+    width: 50%;
+
+}
+
+.CommonHashBlock{
+    display:flex;
+    width: 100%;
+    
+}
+
+.Comission{
+    width: 35%;
+    font-family: Calibri;
+    font-size:20px;
+}
+
+.hashBlock{
+    width: 100%;
+    background-color: rgb(209, 208, 208);
+    display: flex;
+    padding:5px;
+}
+
+.StatusBlock{
+    width: 100%;
+    background-color: rgb(235, 235, 235);
+    display: flex;
+    padding:5px;
+}
+
+.SizeBlock{
+    width: 100%;
+    background-color:rgb(235, 235, 235);
+    display: flex;
+    padding:5px;
+}
+.TimeGetBlock{
+    width: 100%;
+    background-color: rgb(209, 208, 208);
+    display: flex;
+    padding:5px;
+}
+.InputsBlock{
+    width: 100%;
+    background-color:  rgb(209, 208, 208);
+    display: flex;
+    padding:5px;
+}
+
+.ComissionBlock{
+    width: 100%;
+    background-color: rgb(209, 208, 208);
+    display: flex;
+    padding:5px;
+}
+.OutputsBlock{
+    width: 100%;
+    background-color:rgb(235, 235, 235);
+    display: flex;
+    padding:5px;
+}
